@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>OQy-Memmy</title>
+    <link>https://github.com/AlexeyKrivDK/oqy-memmy-releases</link>
+    <description>OQy-Memmy updates</description>
+    <language>ru</language>
+  </channel>
+</rss>
